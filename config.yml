@@ -1,0 +1,46 @@
+mysql:
+  port: 3306
+  username: root
+  hostname: localhost
+  password: ''
+  database: minecraft
+PvPMode: false
+allowGrandPatronXP: true
+allowPatronXP: true
+claimProvinceCost: 100
+colourNamesByRelationship: true
+defaultHomePermitFlag: 6
+defaultProvincePermitFlag: 6
+defaultTeleportPermitFlag: 6
+defaultStance: Neutral
+defendTime: 15
+grandPatronPassupModifier: 0.5
+interruptRequestDuration: 15
+leadershipSkillCap: 1
+leadershipSkillCost: 50
+leadershipSkillDefault: 0.1
+leadershipSkillIncrease: 0.01
+locale: enUS.yml
+loyaltySkillCap: 1
+loyaltySkillCost: 50
+loyaltySkillDefault: 0.1
+loyaltySkillIncrease: 0.01
+maxProvinceYProtection: 256
+minProvinceYProtection: 20
+notifyOpsOfNewVersion: true
+notifyTargetMonarchyOfStance: false
+onlyMonarchCanTpFollower: true
+passUpPercent: 0.5
+passupBottleExp: false
+preventAllianceLoops: true
+preventXPLooping: true
+useProvinceProtection: true
+useSimplePassupPercent: false
+usemChatNames: false
+victimsCanDefendThemselves: true
+chargeProvinceRent: true
+provinceRentFee: 10
+provinceRentTime: 24
+provinceRentExpire: 168
+colourChatNamesByStance: true
+userStanceOverridesTheirMonarch: false

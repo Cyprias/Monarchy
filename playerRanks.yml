@@ -1,0 +1,38 @@
+0:
+  followers: 0
+  permissions:
+  - monarchy.notify.othermonarchdeclaredstance
+  - monarchy
+  title: Civilian
+1:
+  followers: 1
+  permissions: {}
+  title: Patron
+2:
+  followers: 2
+  permissions: {}
+  title: Yeoman
+3:
+  followers: 4
+  permissions: {}
+  title: Baron
+4:
+  followers: 8
+  permissions: {}
+  title: Thane
+5:
+  followers: 16
+  permissions: {}
+  title: Duke
+6:
+  followers: 32
+  permissions: {}
+  title: Aetheling
+7:
+  followers: 64
+  permissions: {}
+  title: King
+8:
+  followers: 128
+  permissions: {}
+  title: "High King"

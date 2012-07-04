@@ -1,0 +1,43 @@
+name: Monarchy
+main: com.cyprias.monarchy.Monarchy
+version: 1.17.0
+
+commands:
+  patron:
+    description: Patron command.
+    usage: Monarchy's <command> command.
+  monarch:
+    description: Ponarch command.
+    usage: Monarchy's <command> command.
+  vassal:
+    description: Vassal command.
+    usage: Monarchy's <command> command.
+  follower:
+    description: Follower command.
+    usage: Monarchy's <command> command.
+  monarchy:
+    description: Monarchy command.
+    usage: Monarchy's <command> command.
+  province:
+    description: Province command.
+    usage: Monarchy's <command> command.
+
+permissions:
+    monarchy.canattack.monarchy:
+        description: Determines if a player can attack (their) monarchy players.
+        default: false
+    monarchy.canattack.allied:
+        description: Determines if a player can attack allied players.
+        default: false
+    monarchy.canattack.friendly:
+        description: Determines if a player can attack friendly players.
+        default: false
+    monarchy.canattack.neutral:
+        description: Determines if a player can attack neutral players.
+        default: false
+    monarchy.canattack.wary:
+        description: Determines if a player can attack wary players.
+        default: false
+    monarchy.canattack.hostile:
+        description: Determines if a player can attack hostile players.
+        default: false
